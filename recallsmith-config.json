@@ -5,5 +5,10 @@
     "appStoreId": "6756044885",
     "updateUrl": "https://apps.apple.com/app/id6756044885",
     "message": "A new version is required to continue. Please update from the Apple Store."
+  },
+  "features": {
+    "cardReport": {
+      "enabled": true
+    }
   }
 }
