@@ -9,6 +9,9 @@
   "features": {
     "cardReport": {
       "enabled": true
+    },
+    "anonFunnel": {
+      "enabled": true
     }
   }
 }
