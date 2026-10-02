@@ -12,6 +12,9 @@
     },
     "anonFunnel": {
       "enabled": true
+    },
+    "paywall": {
+      "hidden": true
     }
   }
 }
